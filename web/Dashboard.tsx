@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><div class='bg-slate-900 text-white'>AegisHunter Dashboard</div></body></html>
