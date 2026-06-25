@@ -1,0 +1,1 @@
+from fastapi import FastAPI; app = FastAPI(); @app.get('/analyze') async def analyze(): return {'status': 'ready'}
