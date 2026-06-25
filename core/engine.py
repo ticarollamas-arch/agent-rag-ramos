@@ -1,0 +1,1 @@
+import requests; def scan(target): try: response = requests.get(target, timeout=5.0); return response.status_code except requests.exceptions.Timeout: return 'Timeout' except Exception as e: return str(e)
